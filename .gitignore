@@ -1,6 +1,8 @@
 ### Project Specific ###
 coverage/
 lib/
+*-lock.json
+*-lock.yaml
 
 ### Linux ###
 *~
